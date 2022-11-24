@@ -1,6 +1,6 @@
 ---
 title: "RNA-seq1"
-author: Sanjay Kumar Srikakulam, Midhuna Immaculate Joseph Maran, Siwen Chen
+author: Siwen Chen, Midhuna Immaculate Joseph Maran, Sanjay Kumar Srikakulam
 date:
 theme: united
 highlight: tango
